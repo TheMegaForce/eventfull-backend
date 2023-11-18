@@ -1,8 +1,6 @@
-Deployed Sites
+Deployed Site
 ---
-Frontend: 
-
-Backend: 
+Frontend: https://eventfull-backend.onrender.com/
 
 Frontend Github: https://github.com/TheMegaForce/eventfull
 
